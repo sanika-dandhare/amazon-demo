@@ -1,4 +1,4 @@
 # amazon-demo
 This is my first Git Repository
 <br>
-Author - Sanika Dandhare
+Author - Sanika Dandhare (SANU)
